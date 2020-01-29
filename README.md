@@ -1,0 +1,2 @@
+# AzureTest
+For learning Azure
